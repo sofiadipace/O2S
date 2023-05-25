@@ -18,13 +18,18 @@ This repository contains source code for paper [Outline to Story: Fine-grained C
 4. generation, evaluation and analysis (generate.py, eval_ppl.py, generate_event_analysis.py).
 
 Contact Le Fang: lefang@buffalo.edu
-my E-Mail: sofiadipace@gmail.com
+
+my email: sofiadipace@gmail.com
 
 
 Update on 2022:
 If you encounter package version issue, sorry for that I don't have a requirements.txt with exact versions. I used this package: https://github.com/nvidia/apex
-How to install apex:
+How to install apex from their Github Repo:
+
 ```
+git clone https://github.com/NVIDIA/apex
+cd apex
+pip install -v --disable-pip-version-check --no-cache-dir ./
 
 ```
 
