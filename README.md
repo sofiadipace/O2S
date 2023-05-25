@@ -17,9 +17,16 @@ This repository contains source code for paper [Outline to Story: Fine-grained C
 3. training (choose from several different implementations on parallelism: train.py, train_apex.py, train_dist.py, train_dist_apex.py).
 4. generation, evaluation and analysis (generate.py, eval_ppl.py, generate_event_analysis.py).
 
-Contact: lefang@buffalo.edu
+Contact Le Fang: lefang@buffalo.edu
+my E-Mail: sofiadipace@gmail.com
 
 
 Update on 2022:
-If you encounter package version issue, sorry for that I don't have a requirements.txt with exact versions. I used this package: https://github.com/nvidia/apex and an old pytorch version compatible with it at that time, say pytorch=0.4 (not 100% sure).
+If you encounter package version issue, sorry for that I don't have a requirements.txt with exact versions. I used this package: https://github.com/nvidia/apex
+How to install apex:
+```
+
+```
+
+
 
